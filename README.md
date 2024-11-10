@@ -10,10 +10,17 @@ This project analyzes Human Resource (HR) data from a company with a forty-year 
 Qualitative Data
 
     Employee: Represents individuals employed within the company. Employees are further categorized into:
+    
      Attrition: Employees who have left the company. 
-     Current Employees: Employees who are actively working at the company. 
+     
+     Current Employees: Employees who are actively working at the company.
+     
     Gender: Indicates the gender of employees.
+    
     Department: The company comprises three departments: Research and Development (R&D), Sales, and Human Resources (HR).
+    
     Job Role: Describes the specific duties assigned to each employee within the company.
+    
     Educational Field: Represents employees' educational backgrounds.
+    
     Job Satisfaction Ratings: Reflects employees' level of satisfaction with their jobs.
