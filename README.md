@@ -23,15 +23,15 @@ The dataset was initially extracted using Microsoft Excel and underwent a series
 
 # Dashboard Data Fields
 The following data fields were incorporated into the visual dashboard for insights and analysis:
-i.Employee Status
-ii.Department
-iii.Job Role
-iv.Average Age 
-v.Educational Field
-vi.Job Satisfaction Ratings
-vii.Attrition by Department
-viii.Attrition by Age Group And Gender
-xi. Attrition by Educational Field
+*Employee Status*
+*Department*
+*Job Role*
+*Average Age* 
+*Educational Field*
+*Job Satisfaction Ratings*
+*Attrition by Department*
+*Attrition by Age Group And Gender*
+*Attrition by Educational Field*
 
 
 
