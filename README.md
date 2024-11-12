@@ -1,5 +1,5 @@
 # LITA_HR_DATA
-This is where i documented the Analysis of an HR data that we treated in class during my data anaysis training with LITA
+This is where i documented the Analysis of a HR data that we Analysized in class during my data anaysis training with LITA
 
 # PROJECT TITLE: HUMAN RESOURCE(HR)_DATA
 
