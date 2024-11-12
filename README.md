@@ -44,9 +44,8 @@ The following data fields were incorporated into the visual dashboard for insigh
 # Key insights 
 From the data reveal that attrition is highest among employees aged under 25 and 25-34, especially in R&D and Sales departments, driven by career growth and performance pressures. Employees with Life Sciences and Medical backgrounds experience higher turnover due to market demand. In contrast, HR roles exhibit lower attrition, indicating better cultural alignment. Job dissatisfaction is notable in Sales Representatives, Sales Executives, and Laboratory Technicians, often linked to unmet expectations. Even satisfied Research Scientists show attrition, suggesting that external factors like career advancement or competitive offers influence turnover.
 
-
-
-
+# Conclusion
+The analysis highlights key areas contributing to employee attrition, particularly among younger employees and specific departments like R&D and Sales, where career growth and performance pressures are prominent factors. High-demand fields such as Life Sciences and Medical also show increased turnover, while HR roles demonstrate greater stability. Addressing dissatisfaction in certain roles and offering career development opportunities could improve retention. Additionally, external factors, such as competitive offers, should be considered when developing retention strategies. By tailoring interventions based on these insights, organizations can better support employee satisfaction and reduce turnover.
 
 
 
