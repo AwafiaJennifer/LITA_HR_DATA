@@ -9,12 +9,12 @@ This project analyzes Human Resource (HR) data from a company with a forty-year 
 
 # Key Data Attributes
  - Employee: Represents each individual employed by the company
-## Attrition: Employees who have left the company, helping to track turnover rates.
-## Current Employees: Employees who are actively working in the company.
-## Gender:Indicates the gender of employees, which can provide insight into gender diversity and related analyses.
-## Job Role: Describes the specific role and responsibilities of each employee within the organization, allowing for role-based performance and satisfaction analyses.
-## Educational Field: Represents employees' educational backgrounds, which can help in examining the relationship between education and job roles or performance.
-## Job Satisfaction Ratings: Reflects employees' level of satisfaction with their jobs on a scale, useful for identifying satisfaction trends and potential areas for improvement.
+- Attrition: Employees who have left the company, helping to track turnover rates.
+-  Current Employees: Employees who are actively working in the company.
+- Gender:Indicates the gender of employees, which can provide insight into gender diversity and related analyses.
+- Job Role: Describes the specific role and responsibilities of each employee within the organization, allowing for role-based performance and satisfaction analyses.
+- Educational Field: Represents employees' educational backgrounds, which can help in examining the relationship between education and job roles or performance.
+- Job Satisfaction Ratings: Reflects employees' level of satisfaction with their jobs on a scale, useful for identifying satisfaction trends and potential areas for improvement.
 
 
 
