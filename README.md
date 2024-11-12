@@ -44,7 +44,16 @@ The following data fields were incorporated into the visual dashboard for insigh
 
 *Attrition by Educational Field*
 
-# Key insights 
+# Data visualization
+![hr data 1](https://github.com/user-attachments/assets/52d3b26e-a383-4073-95fb-c21ff88282da)
+
+![hr data 2](https://github.com/user-attachments/assets/2ff08da7-ca57-450e-a353-5b4cc3e020c1)
+
+![hr data 3](https://github.com/user-attachments/assets/47c2cef6-0d96-48ca-a40d-3dead97e208b)
+
+
+# Key insights
+
 From the data reveal that attrition is highest among employees aged under 25 and 25-34, especially in R&D and Sales departments, driven by career growth and performance pressures. Employees with Life Sciences and Medical backgrounds experience higher turnover due to market demand. In contrast, HR roles exhibit lower attrition, indicating better cultural alignment. Job dissatisfaction is notable in Sales Representatives, Sales Executives, and Laboratory Technicians, often linked to unmet expectations. Even satisfied Research Scientists show attrition, suggesting that external factors like career advancement or competitive offers influence turnover.
 
 # Conclusion
