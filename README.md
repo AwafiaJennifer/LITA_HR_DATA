@@ -5,7 +5,7 @@ This is where i documented the Analysis of a HR data that we Analysized in class
 
 # Project Overview
 
-This project analyzes Human Resource (HR) data from a company with a forty-year history. Aims derive insights that can help improve workforce management, employee satisfaction, and operational efficiency. The project uses a variety of data analysis and visualization techniques to explore key HR metrics such as employee turnover, productivity, satisfaction, and performance.The dataset includes both quantitative and qualitative variables, providing insights into trends related to employee attrition and current staff. These insights will aim to support informed decision-making to help reduce the company's attrition rate.
+This project analyzes Human Resource (HR) data from a company with a forty-year history. Aim to derive insights that can help improve workforce management, employee satisfaction, and operational efficiency. The project uses a variety of data analysis and visualization techniques to explore key HR metrics such as employee turnover, productivity, satisfaction, and performance.The dataset includes both quantitative and qualitative variables, providing insights into trends related to employee attrition and current staff. These insights will aim to support informed decision-making to help reduce the company's attrition rate.
 
 # Tool used 
 Power BI 
